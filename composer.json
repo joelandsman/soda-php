@@ -2,5 +2,5 @@
     "name": "jlandsman/soda-php",
     "type": "library",
     "description": "A simple library to make it easier to access SODA services from PHP http://dev.socrata.com",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
